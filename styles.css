@@ -1,0 +1,62 @@
+body {
+    background-color: #f2f0ea;
+    font-family: Helvetica, sans-serif;
+    color: #1A1A1A;
+}
+
+h1 {
+    color: #5b9b8e;
+    font-size: 2.5rem;
+}
+
+header {
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid #1A1A1A;
+}
+
+nav a {
+    color: #5b9b8e
+}
+
+main {
+    padding: 3rem 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.metodo-titulo {
+    font-size: 1.1rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-bottom: 0.25rem;
+    color: #5b9b8e;
+}
+
+.precio {
+    font-weight: bold;
+    color: #5b9b8e;
+}
+
+footer {
+    padding: 3rem 2rem;
+    max-width: 800px;
+    margin: 0 auto
+}
+
+#contador-tazas {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #5B9B8E;
+}
+
+#boton-reservar {
+    display: block;
+    margin-top: 1rem;
+    padding: 0.5rem 1.25rem;
+    background-color: #5B9B8E;
+    color: #F2F0EA;
+    border: none;
+    font-family: Georgia, serif;
+    font-size: 1rem;
+    cursor: pointer;
+}
